@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Practica6-NormaFPU/Practica6-NormaFPU.vcxproj" Id="63bf608e-2d0e-48e6-a25f-cd9a9fbf64f2" />
+</Solution>
